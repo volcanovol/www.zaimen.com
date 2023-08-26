@@ -34,6 +34,7 @@ body {
     border: none;
     color: #fff;
     cursor: pointer;
+    transition: background-color 0.3s ease; /* Add transition effect */
 }
 
 #submit:hover {
