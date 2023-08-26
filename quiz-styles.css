@@ -34,7 +34,8 @@ body {
     border: none;
     color: #fff;
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Add transition effect */
+    transition: background-color 0.3s ease;
+    border-radius: 4px; /* Rounded corners */
 }
 
 #submit:hover {
